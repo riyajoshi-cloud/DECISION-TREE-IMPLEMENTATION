@@ -52,3 +52,4 @@ Working on Jupyter Notebook provided me with an efficient environment to code, t
 ## OUTPUT:
 
 <img width="1743" height="957" alt="Image" src="https://github.com/user-attachments/assets/9cc9177c-6508-4063-9197-8649815d8337" />
+<img width="1490" height="503" alt="Image" src="https://github.com/user-attachments/assets/2d3d4d56-10d2-48cd-a5f9-0ecb172a5c87" />
