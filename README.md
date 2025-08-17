@@ -47,3 +47,8 @@ Another advantage is that decision trees can handle both categorical and numeric
 In conclusion, this task of implementing a decision tree model gave me hands-on experience in one of the most fundamental machine learning algorithms. I learned how to preprocess data, train a model, tune its parameters, and evaluate its performance. More importantly, I understood where decision trees can be applied in real-world scenarios and what precautions need to be taken while using them.
 
 Working on Jupyter Notebook provided me with an efficient environment to code, test, and visualize the model. Overall, this task enhanced my practical knowledge of machine learning and gave me confidence to apply decision trees in solving real-world classification and prediction problems.
+
+
+## OUTPUT:
+
+<img width="1743" height="957" alt="Image" src="https://github.com/user-attachments/assets/9cc9177c-6508-4063-9197-8649815d8337" />
