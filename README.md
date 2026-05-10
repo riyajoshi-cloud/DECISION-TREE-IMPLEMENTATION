@@ -1,17 +1,4 @@
 # DECISION-TREE-IMPLEMENTATION
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: RIYA JOSHI
-
-*INTERN ID*: CT04DZ615
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ## Description of the Task
 
 The task required me to build a decision tree model using Python libraries such as scikit-learn, pandas, and numpy. The process started with importing a dataset, performing preprocessing (handling missing values, encoding categorical variables if required, and splitting the dataset into training and testing sets), and then fitting a decision tree classifier.
